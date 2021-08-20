@@ -1,0 +1,19 @@
+#DEMO ACCOUNT
+hk3nk97i@futures-demo.com
+jp758qrmjy3ik6z8yfjj
+
+#general
+9FwOuVCEY/mL+vFsaqPcnVtrbajXWP19ibXxwYozhfo17joJtxwH4D3Q
+vfi0GFEAvuAuD/h7ejvRAkNhwGtN1jIqDF73MITFxrZDHqjh+t5wBYF1aVBli77NzZ2JxnSNKrKJE1XqrHE29Fs4
+
+#general & withdrawal
+TBozV/D1lts3w0lsJ9WkowX4yLz6lHrElKUFKxGiZz0QXke+k/CPQmcF
+4zKicHY05iU9dVxJQj6T3TAz95QTdW+JXTeUw++gzs+PGn6IA2vPFYMVpEHoS77u51Kv/xOn1ipj7+1RUQAMPvox
+
+https://api.futures.kraken.com/derivatives/api/v3
+
+
+#REAL ACCOUNT
+const key          = 'RFuGAC5X3RthwC1o0Zn3iyQ20bgoyQUpJf9yxW8YeL7K67EnLUc6WArQ'; // API Key
+const secret       = '9Ev/sr9RtwGK0Ne15KepUhFNVkqUz30ym6wb8OGQPifP9VhPbwM7fGQQM3CMn6ycjfFw/4X6W8K4KU0VOs63AQ=='; // API Private Key
+

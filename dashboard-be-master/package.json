@@ -1,0 +1,23 @@
+{
+  "name": "dashboard-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+     "start":"nodemon app.js"
+  },
+  "author": "Subrat",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "kraken-api": "^1.0.1",
+    "request": "^2.88.2",
+    "socket.io": "^2.2.0",
+    "utf8": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
